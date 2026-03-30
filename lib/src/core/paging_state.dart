@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/foundation.dart';
-import 'package:infinite_scroll_pagination/src/core/paging_state_base.dart';
+import 'package:infinite_scroll_pagination_5/src/core/paging_state_base.dart';
 
 /// Represents the state of a paginated layout.
 @immutable
