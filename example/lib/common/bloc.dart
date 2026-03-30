@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter/foundation.dart';
-import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
+import 'package:infinite_scroll_pagination_5/infinite_scroll_pagination.dart';
 
 sealed class PagingEvent {
   const PagingEvent();

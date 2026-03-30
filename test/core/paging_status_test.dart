@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:infinite_scroll_pagination/src/core/paging_state.dart';
-import 'package:infinite_scroll_pagination/src/core/paging_status.dart';
+import 'package:infinite_scroll_pagination_5/src/core/paging_state.dart';
+import 'package:infinite_scroll_pagination_5/src/core/paging_status.dart';
 
 void main() {
   group('PagingStatusExtension', () {

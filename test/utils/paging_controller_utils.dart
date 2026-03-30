@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:infinite_scroll_pagination/infinite_scroll_pagination.dart';
+import 'package:infinite_scroll_pagination_5/infinite_scroll_pagination.dart';
 import 'package:mockito/mockito.dart';
 
 class MockPageRequestListener extends Mock {
