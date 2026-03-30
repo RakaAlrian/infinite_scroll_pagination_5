@@ -1,6 +1,6 @@
-import 'package:infinite_scroll_pagination/src/core/paging_controller.dart';
-import 'package:infinite_scroll_pagination/src/core/paging_state.dart';
-import 'package:infinite_scroll_pagination/src/core/paging_status.dart';
+import 'package:infinite_scroll_pagination_5/src/core/paging_controller.dart';
+import 'package:infinite_scroll_pagination_5/src/core/paging_state.dart';
+import 'package:infinite_scroll_pagination_5/src/core/paging_status.dart';
 import 'package:meta/meta.dart';
 
 /// Helper extensions to make working with [PagingState] easier.
